@@ -16,6 +16,8 @@ Currently, the following projects are available:
    
 4. **(Under Translation) Project Ifood:** A Project similar to a restaurant app.
 
+5. **(Em teste) Dolar to BRL:** Using the library requests and a API and returning dolar to BRL value.
+
 ## Weekly Updates
 
 This repository will be updated weekly with new projects, bug fixes, and code improvements. You can expect new content in both English and Portuguese.
@@ -40,6 +42,10 @@ Atualmente, os seguintes projetos estão disponíveis:
 3. **(Em construção) Programa de criptografia de senhas:** Projeto que envolve a criptografia com a biblioteca python bcrypt.
 
 4. **(Em tradução) Projeto Ifood:** Projeto que simula um aplicativo de restaurantes. 
+
+5. **(Em teste) Valor Dolar:** Utilizando a biblioteca requests, juntamente com uma API, retorna-se o valor do dolar.
+
+6. **(Em construção) DataScience :** Utilizando Python para DataScience, com exercícios e Projetos.
 
 ## Atualizações Semanais
 
